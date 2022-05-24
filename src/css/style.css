@@ -1,0 +1,40 @@
+body{
+    background-color: #EE82EE;
+}
+
+.title{
+    color: #eee;
+    text-align: center;
+    font-weight: 800;
+    
+}
+
+h3 {
+    color:aqua;
+    font-size: 10px;
+}
+
+.box {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color:aqua;
+    padding: 20px 50px 40px 60px;
+    /* border-width: 10px;
+    border-style: solid;
+    border-color: rgb(224, 240, 3); */
+    border: 10px solid rgb(224, 240, 3);
+    margin: 20px;
+}
+button{
+    background-color:aquamarine;
+}
+
+nav {
+    position: relative;
+    left: 130px;
+}
+
+h2{
+    text-align: center;
+}
